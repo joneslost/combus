@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Combustivel</string>
+    <string name="action_settings">Settings</string>
+    <string name="preco_gasolina">Preço Gasolina</string>
+    <string name="Sair">Sair</string>
+    <string name="calcular">Calcular</string>
+    <string name="preco_alcool">Preço Etanol</string>
+    <string name="discricao_etanol">etanol</string>
+    <string name="discricao_gasolina">gasolina</string>
+
+</resources>
